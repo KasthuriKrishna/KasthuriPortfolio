@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Police Performance and Resource Management",
+    "imageSrc": "projects/pprm.png",
+    "description": "This is an analytical dashboard to monitor the police performance and manage resources effciently",
+    "skills": ["React", "PHP", "MySQL"],
+    "demo": "https://ticklespprmdashboard.000webhostapp.com/",
+    "source": "https://github.com/KasthuriKrishna/KSP_Dashboard.git"
+  },
+  {
+    "title": "Travel Stories",
+    "imageSrc": "projects/travel.png",
+    "description": "This is a travel and tourism app made to ease the flow of planning your trips and booking accomodations & transportation to explore your dream destinations",
+    "skills": ["React", "Springboot", "MySQL"],
+    "source": "https://github.com/KasthuriKrishna/Travel_Stories.git"
+  }
+]

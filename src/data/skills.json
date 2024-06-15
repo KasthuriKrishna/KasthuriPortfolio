@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Cloud Computing",
+    "imageSrc": "skills/cloud.jpeg"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysqlimg.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "skills/sts.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Selenium",
+    "imageSrc": "skills/selenium.png"
+  }
+]

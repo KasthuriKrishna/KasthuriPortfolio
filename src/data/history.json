@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Development Internship",
+    "organisation": "Prodigy Infotech",
+    "startDate": "Apr, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Worked on Multiple responsive react projects", "Enhanced my unerstanding of React and its components"],
+    "imageSrc": "history/prodigy.jpeg"
+  },
+  {
+    "role": "Top 12 teams advancing to Product Development Phase",
+    "organisation": "Karnataka State Police Datathon 2024",
+    "startDate": "Mar, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": ["Worked on creating an Analytical Dashboard for police performance", "Used Bootstrap and Leaflet to create responsive web application"],
+    "imageSrc": "history/ksp.jpeg"
+  }
+]
