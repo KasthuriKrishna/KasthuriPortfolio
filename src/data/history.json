@@ -1,5 +1,21 @@
 [
   {
+    "role": "Top 12 teams advancing to Product Development Phase",
+    "organisation": "Karnataka State Police Datathon 2024",
+    "startDate": "Mar, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": ["Worked on creating an Analytical Dashboard for police performance", "Used Bootstrap and Leaflet to create responsive web application"],
+    "imageSrc": "history/ksp.jpeg"
+  },
+  {
+    "role": "Information and Communication Technology Intern",
+    "organisation": "Tamilnadu Newsprint and Papers Limited(TNPL)",
+    "startDate": "July, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Learned about ERP using Oracle Software", "Worked closely with Employee management Database systems using PLSQL","Understood the importance of Data center and Network security"],
+    "imageSrc": "history/TNPL.png"
+  },
+  {
     "role": "Web Development Internship",
     "organisation": "Prodigy Infotech",
     "startDate": "Apr, 2024",
@@ -8,11 +24,11 @@
     "imageSrc": "history/prodigy.jpeg"
   },
   {
-    "role": "Top 12 teams advancing to Product Development Phase",
-    "organisation": "Karnataka State Police Datathon 2024",
-    "startDate": "Mar, 2024",
-    "endDate": "Jun, 2024",
-    "experiences": ["Worked on creating an Analytical Dashboard for police performance", "Used Bootstrap and Leaflet to create responsive web application"],
-    "imageSrc": "history/ksp.jpeg"
+    "role": "Secured 8th position in Code Fusion by HackTech Community",
+    "organisation": "University Institute of Engineering, Chandigarh university",
+    "startDate":"June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Improvised the Analytical Dashboard for police performance", "Used Chart.js and Leaflet.js to enhance data visualization"],
+    "imageSrc": "history/codefusion.jpeg"
   }
 ]

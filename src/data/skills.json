@@ -42,5 +42,17 @@
   {
     "title": "Selenium",
     "imageSrc": "skills/selenium.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Compliance Laws",
+    "imageSrc": "skills/Audit.jpeg"
+  },
+  {
+    "title": "Cybersecurity",
+    "imageSrc": "skills/Cyber.jpeg"
   }
 ]
