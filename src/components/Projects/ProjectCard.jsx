@@ -1,11 +1,17 @@
 import React from "react";
-
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
 }) => {
+  const handleDemoClick = (e) => {
+    if (!demo) {
+      e.preventDefault(); // Prevent the default action of the anchor tag
+      alert("Sorry, the app has not been deployed yet.");
+    }
+  };
+
   return (
     <div className={styles.container}>
       <img
@@ -16,16 +22,18 @@ export const ProjectCard = ({
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
-        {skills.map((skill, id) => {
-          return (
-            <li key={id} className={styles.skill}>
-              {skill}
-            </li>
-          );
-        })}
+        {skills.map((skill, id) => (
+          <li key={id} className={styles.skill}>
+            {skill}
+          </li>
+        ))}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link} alt="Website is not hosted">
+        <a
+          href={demo || "#"}
+          className={styles.link}
+          onClick={handleDemoClick}
+        >
           Demo
         </a>
         <a href={source} className={styles.link}>

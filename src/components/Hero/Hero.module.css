@@ -39,15 +39,29 @@
   margin-bottom: 52px;
 }
 
-.contactBtn {
+.buttons {
+  display: flex;
+  gap: 20px; /* Space between buttons */
+}
+
+.contactBtn,
+.resumeBtn {
   text-decoration: none;
-  background-color: var(--color-primary);
-  color: var(--color-text);
   border-radius: 100px;
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.contactBtn {
+  background-color: var(--color-primary);
+  color: var(--color-text);
+}
+
+.resumeBtn {
+  background-color: var(--color-secondary); /* Use a different color for distinction */
+  color: var(--color-text);
 }
 
 .heroImg {
@@ -77,7 +91,6 @@
   width: 50vw;
   height: 50vw;
   min-width: 350px;
-  min-width: 350px;
   top: -128px;
   left: -10vw;
   border-radius: 764px;
@@ -90,7 +103,6 @@
   position: absolute;
   width: 70vw;
   height: 50vw;
-  min-width: 350px;
   min-width: 250px;
   top: 246px;
   right: -25vw;

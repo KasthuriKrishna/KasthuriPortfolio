@@ -8,6 +8,13 @@
     "source": "https://github.com/KasthuriKrishna/KSP_Dashboard.git"
   },
   {
+    "title": "Pharma Finder",
+    "imageSrc": "projects/pharma.png",
+    "description": "This is an app that helps the people to check the availability of target medicines in their nearest pharmacies",
+    "skills": ["React", "Springboot", "MySQL","Tesseract JS"],
+    "source": "https://github.com/KasthuriKrishna/PharmaFinderFrontend.git"
+  },
+  {
     "title": "Travel Stories",
     "imageSrc": "projects/travel.png",
     "description": "This is a travel and tourism app made to ease the flow of planning your trips and booking accomodations & transportation to explore your dream destinations",
