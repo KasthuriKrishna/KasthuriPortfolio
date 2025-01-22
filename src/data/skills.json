@@ -16,10 +16,6 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node JS",
-    "imageSrc": "skills/node.png"
-  },
-  {
     "title": "Cloud Computing",
     "imageSrc": "skills/cloud.jpeg"
   },
@@ -42,14 +38,6 @@
   {
     "title": "Selenium",
     "imageSrc": "skills/selenium.png"
-  },
-  {
-    "title": "Docker",
-    "imageSrc": "skills/docker.png"
-  },
-  {
-    "title": "Compliance Laws",
-    "imageSrc": "skills/Audit.jpeg"
   },
   {
     "title": "Cybersecurity",

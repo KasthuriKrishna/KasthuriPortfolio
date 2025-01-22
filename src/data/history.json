@@ -1,11 +1,27 @@
 [
   {
+    "role": "Smart India Hackathon 2024 Winner",
+    "organisation": "AICTE , MIC",
+    "startDate": "Oct, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Software to detect the presence of Personally Identifiable Information embedded in document, alerting the user about the same and helping them to remove/mask it."],
+    "imageSrc": "history/Pii.png"
+  },
+  {
     "role": "Top 12 teams advancing to Product Development Phase",
     "organisation": "Karnataka State Police Datathon 2024",
     "startDate": "Mar, 2024",
     "endDate": "Jun, 2024",
     "experiences": ["Worked on creating an Analytical Dashboard for police performance", "Used Bootstrap and Leaflet to create responsive web application"],
     "imageSrc": "history/ksp.jpeg"
+  },
+  {
+    "role": "Vice President - CyberPulse",
+    "organisation": "Sri Krishna College of Engineering and Technology",
+    "startDate": "Aug, 2024",
+    "endDate": "Jan, 2025",
+    "experiences": ["Organised various events in the association like CTF, Decrypt to Dominate", "Upgrades my leadership skills on managing a association on our own"],
+    "imageSrc": "history/VP.jpg"
   },
   {
     "role": "Information and Communication Technology Intern",
@@ -16,12 +32,12 @@
     "imageSrc": "history/TNPL.png"
   },
   {
-    "role": "Web Development Internship",
-    "organisation": "Prodigy Infotech",
-    "startDate": "Apr, 2024",
-    "endDate": "May, 2024",
-    "experiences": ["Worked on Multiple responsive react projects", "Enhanced my unerstanding of React and its components"],
-    "imageSrc": "history/prodigy.jpeg"
+    "role": "Attended 3-Days workshop on React and Redux",
+    "organisation": "CDW",
+    "startDate": "November, 2024",
+    "endDate": "November, 2024",
+    "experiences": ["Learned about industry best practices of React", "Gained Hands-on experience by performing mini tasks"],
+    "imageSrc": "history/CDW.jpg"
   },
   {
     "role": "Secured 8th position in Code Fusion by HackTech Community",
@@ -30,5 +46,13 @@
     "endDate": "July, 2024",
     "experiences": ["Improvised the Analytical Dashboard for police performance", "Used Chart.js and Leaflet.js to enhance data visualization"],
     "imageSrc": "history/codefusion.jpeg"
+  },
+  {
+    "role": "Secured 10th position in Idea Ignite",
+    "organisation": "CodeByte, Banglore",
+    "startDate":"June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Improvised the Analytical Dashboard for police performance", "Used Chart.js and Leaflet.js to enhance data visualization"],
+    "imageSrc": "history/Kas_CodeByte_10th.jpg"
   }
 ]

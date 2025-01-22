@@ -1,18 +1,31 @@
 [
   {
+    "title": "PII Detection and Masking",
+    "imageSrc": "projects/PII_list.png",
+    "description": "Browser extension that detects the presence of PII embedded in the document and alerting the user to mask/remove it.",
+    "skills": ["React", "Flask", "PyTorch","OpenCV"],
+    "source": "https://github.com/KasthuriKrishna/PII_Detection_and_Maksing.git"
+  },
+  {
     "title": "Police Performance and Resource Management",
     "imageSrc": "projects/pprm.png",
-    "description": "This is an analytical dashboard to monitor the police performance and manage resources effciently",
+    "description": "This is an analytical dashboard to monitor the police performance and manage the man power by auto allocation of duty roasters and other resources efficiently.",
     "skills": ["React", "PHP", "MySQL"],
-    "demo": "https://ticklespprmdashboard.000webhostapp.com/",
     "source": "https://github.com/KasthuriKrishna/KSP_Dashboard.git"
   },
   {
     "title": "Pharma Finder",
     "imageSrc": "projects/pharma.png",
-    "description": "This is an app that helps the people to check the availability of target medicines in their nearest pharmacies",
-    "skills": ["React", "Springboot", "MySQL","Tesseract JS"],
+    "description": "App that helps the people to check the availability of target medicines in their nearest pharmacies by allowing users to scan and upload their prescribtion",
+    "skills": ["React", "Springboot", "MySQL","Tesseract JS","Fuse JS"],
     "source": "https://github.com/KasthuriKrishna/PharmaFinderFrontend.git"
+  },
+  {
+    "title": "Remote Workforce Monitoring Tool",
+    "imageSrc": "projects/Remote.png",
+    "description": "Application that tracks the performance of all employees and generates reports and customised suggestions. Performance is tracked in the form of browser extension.",
+    "skills": ["React", "Springboot", "MySQL"],
+    "source": "https://github.com/Sivaraman- Ravichandran/performance_monitoring_tool.git"
   },
   {
     "title": "Travel Stories",
